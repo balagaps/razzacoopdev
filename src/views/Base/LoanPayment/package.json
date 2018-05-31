@@ -1,0 +1,6 @@
+{
+  "name": "LoanPayment",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./LoanPayment.js"
+}
